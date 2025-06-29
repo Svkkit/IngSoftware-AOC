@@ -8,10 +8,11 @@ Control de Versiones de el proyecto los naranjos
 https://github.com/user-attachments/assets/f888f2f1-bdfa-498c-a008-ebcdb2406c38
 
 ### Gestión de Mesas (Comandas)
-https://github.com/user-attachments/assets/aed7e575-4db5-4d91-ba9f-a58a1d8beef3
+https://github.com/user-attachments/assets/f14993ab-9baf-451b-93b0-af414f65d5de
 
 ### Portal Administrativo
-https://github.com/user-attachments/assets/82725400-76c7-4ee6-860d-4b9942f78edb
+https://github.com/user-attachments/assets/8cdce186-70ba-4b91-94c1-fe339e27aa8b
+
 
 ## Demostración Funcionamiento MVP
 
